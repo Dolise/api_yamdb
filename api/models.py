@@ -4,6 +4,7 @@ from django.contrib.auth.models import (
     BaseUserManager,
     PermissionsMixin
 )
+# new_line
 
 
 class UserManager(BaseUserManager):
